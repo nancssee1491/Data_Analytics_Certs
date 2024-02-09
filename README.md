@@ -1,2 +1,2 @@
-# Data_Analytics_Certs
+# Data Analytics Certs
 All data analytics related certifications.
